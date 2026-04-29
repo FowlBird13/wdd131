@@ -30,7 +30,7 @@ para.classList.add("background"); //This adds the previously unused class ".back
 // This can be used to make a kind of "night-mode".
 
 const image = document.querySelector("img");
-image.setAttribute("src", "u2logo.png"); // change the logo image on the page. setAttribute
+image.setAttribute("src", "images/u2logo.png"); // change the logo image on the page. setAttribute
 // takes two properties instead of one: the attribute you want to change and what you want
 // to change it to.
 

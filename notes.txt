@@ -50,6 +50,9 @@ Wednesday 4/29/26 Week 2
     
     Computational Thinking:
         Think like a programmer to create dynamic web elements. Woah!
+        You need to know how to sit down and think throught the logic of your code before you start 
+        writing it. Go in with a plan!
+        This is what potential employers are looking for.
 
     JavaScript stuff:
         This code creates an event listener that executes a function when a dropdown menu is changed:
@@ -60,3 +63,4 @@ Wednesday 4/29/26 Week 2
                 //super duper code goes here
             }); 
 
+Monday the next week...
