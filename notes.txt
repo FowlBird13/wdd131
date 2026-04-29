@@ -50,3 +50,13 @@ Wednesday 4/29/26 Week 2
     
     Computational Thinking:
         Think like a programmer to create dynamic web elements. Woah!
+
+    JavaScript stuff:
+        This code creates an event listener that executes a function when a dropdown menu is changed:
+
+            let dropdown = document.querySelector("#webdevlist"); // select the dropdown menu
+
+            dropdown.addEventListener("change", function(){
+                //super duper code goes here
+            }); 
+
