@@ -1,0 +1,52 @@
+Monday 4/27/26 Week 2
+    Javascript Stuff:
+        These are things you can do with DOM (Document Object Model)
+        
+        // const element = document.querySelector('#myIdName')
+        This returns an element based on it's ID. Using .querySelectorAll('className') will 
+        return a class of elements.
+
+        // element.innerHTML = "awesome content"
+        This changes the content of the element.
+
+        // inputElement.value = "New Input Value"
+        This can be used to set values of elements
+
+        // element.style.color = "blue"
+        These are two properties that chain together in Javascript
+
+        // element.style.backgroundColor = "yellow"
+        Another chained together property. Remember to use the proper syntax. JS uses camel case.
+
+        // .remove()
+        remove something
+
+        // element.setAttribute("src", "new-image.jpg")
+        You can change the elements of a page while on the page by using JS
+
+        To link JavaScript to your html file use this:
+        // <script src="your-file.js" defer></script>
+
+    Remember that only the first element found is selected when using querySelector()
+
+    Console.log() is an inefficient way to debug code in JS
+    Debugging JavaScript with Chrome Dev tools:
+        1. Find a series of actions that reproduce the bug.
+        2. Press Ctrl + Shift + J to Open Dev tools
+        3. Click the sources tab. It has three parts
+            File navigator pane
+            Code editor pane
+            JS debugging pane
+        4. Use event listener breakpoints to pause the code. 
+            (You can set a breakpoint on a specific line of code as well.)
+        5. Use "resume script execution" to skip around until you find the correct line.
+        6. The step-in, step-over, step-out tools can let you run the code line by line.
+        7. The scope panel shows the values of all the variables being stored.
+        8. While paused on a line, the console has access to all variables within the scope.
+        9. Use the terminal to test possible solutions.
+
+Wednesday 4/29/26 Week 2
+    There will be a quiz EVERY Wednesday.
+    
+    Computational Thinking:
+        Think like a programmer to create dynamic web elements. Woah!
