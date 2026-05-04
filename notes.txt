@@ -62,5 +62,26 @@ Wednesday 4/29/26 Week 2
             dropdown.addEventListener("change", function(){
                 //super duper code goes here
             }); 
+    
+    CSS stuff:
+        using the suffix vw and vh will stretch an object to match the viewport width and viewport height. 
+        If you wanted an image to stretch across the screen, you can set its width to 100vw.
 
-Monday the next week...
+Monday 5/4/26 Week 3
+    DOM Challenge
+        This challenge was really hard. I didn't understand it all that well. Too much JS.
+    Mobile first
+        Media queries go at the end of the css and change the way the website looks depending
+        on the dimensions of the screen. Media queries always go at the end of the css.
+
+            @media screen and (min-width: 700px) {
+
+            } 
+    Reset and Normalize
+        You can normalize and reset native styles on browsers. 
+        You should add the link to the normalized css in your head before your normal css. 
+        This ensures that there is at least SOME kind of css on your website. The CSS you write
+        should override the native css.
+        cdnjs is a website where you can find normalized css. Hot link it to your html.
+
+Wednesday...
